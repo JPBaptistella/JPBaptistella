@@ -1,9 +1,13 @@
 # Bem vinde!
 Apenas um estudante de programação!
+
 Em busca de uma mudança de carreia para a área de dados
+
 # Sobre mim
 *Tenho 30 anos
+
 *Sou formado em gastonomia e engenharia de alimentos
+
 #Linguagens
 >R
 >https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
