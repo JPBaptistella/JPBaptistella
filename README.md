@@ -4,9 +4,9 @@ Apenas um estudante de programação! 📚
 Buscando uma mudança de carreira na área de dados 💻
 
 # Sobre mim
-*Tenho 30 anos
+* Tenho 30 anos
 
-*Sou formado em gastonomia e engenharia de alimentos
+* Sou formado em gastonomia e engenharia de alimentos
 
 # Linguagens
 
